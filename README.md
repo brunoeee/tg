@@ -2,7 +2,7 @@
 - Aluno: Carvalho, Bruno. 
 - Orientador: Vasconcelos, Germano.
 
-# Funcionalidades:
+# Título:
 - Aplicação de Redes Neurais Convolucionais na Análise de Satisfação de Clientes Bancários.
 
 # Palavras-chave:   
