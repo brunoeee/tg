@@ -22,15 +22,15 @@ Modelos
 - Arquiteruras das redes CNN (.png)
 
 # Recursos e bibliotecas utilizadas
+- cuda
 - python 3
 - numpy
 - pandas
-- skit-learn
-- skit-learn imbalance
-- pyplot
-- cuda
+- matplotlib
 - jupyter notebook
-- keras
+- scikit-learn
+- scikit-learn imbalance
 - Tensorflow
+- keras
 
 
