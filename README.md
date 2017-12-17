@@ -3,7 +3,7 @@
 - Orientador: Vasconcelos, Germano.
 
 # Título:
-- Aplicação de Redes Neurais Convolucionais na Análise de Satisfação de Clientes Bancários.
+- Aplicação de Redes Neurais Convolucionais na Análise da Satisfação de Clientes de Bancos.
 
 # Palavras-chave:   
 - rede neural convolucional.
